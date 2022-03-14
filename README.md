@@ -1,2 +1,2 @@
 # Python_Class
-Algumas atividades feitas durante aula optativa de Python na UFSJ
+Algumas atividades de conceitos básicos feitas durante aula optativa de Python na UFSJ
